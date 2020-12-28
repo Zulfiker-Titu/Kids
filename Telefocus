@@ -14,6 +14,8 @@ https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 http://160.119.77.116:8081/iptv/sd-boomerang.stream/playlist.m3u8
 #EXTINF:-1,Boomerang (OPT-3)
 http://27.254.130.61/live01/ch18.m3u8?p=st
+#EXTINF:-1,Boomerang (Opt-4)
+http://pakkatv.tk/Wp/livetamila6b2c1d0/yupp.php?id=514
 #EXTINF:-1,Disvovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
 #EXTINF:-1,Disney Channel (Opt-1)
@@ -94,3 +96,17 @@ http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755698.ts?checkedby:hlscat.c
 http://nn1.joj.sk/hls/rik-540.m3u8
 #EXTINF:-1,Kakica
 http://89.187.191.133:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2606.ts
+#EXTINF:-1,Duronto TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.m3u8
+#EXTINF:-1,Disney XD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.m3u8 #EXTINF:-1,Sony Yay http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.m3u8
+#EXTINF:-1,Spacetoon
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1,Sheemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8 
+#EXTINF:-1,MBC 3
+http://185.246.210.55:2200/EX/MBC_3_HD-ar/index.m3u8?token=xxaazzzxxx123zzzaaa
+#EXTINF:-1,tvo KIDS
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1,Wow! TV
+http://pakkatv.tk/Wp/livetamila6b2c1d0/yupp.php?id=513
