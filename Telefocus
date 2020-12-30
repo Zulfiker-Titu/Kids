@@ -103,7 +103,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.m3u8 #EXTINF:-1,Sony Yay http:/
 #EXTINF:-1,Sheemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8 
 #EXTINF:-1,MBC 3
-http://185.246.210.55:2200/EX/MBC_3_HD-ar/index.m3u8?token=xxaazzzxxx123zzzaaa
+http://185.246.210.55:2200/EX/MBC_3_HD-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,tvo KIDS
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1,Wow! TV
