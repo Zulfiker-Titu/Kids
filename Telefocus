@@ -43,6 +43,8 @@ http://51.68.141.106:8081/tv/cartoon-network/chunks.m3u8
 http://d-e-02.cdn.rdsnet.ro/DVR/davincilearningsdb.stream/playlit.m3u8
 #EXTINF:-1,MBC 3 HD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:-1,Pogo
+http://167.71.64.223:9548/kids2019/pogohindi/chunks.m3u8?nimblesessionid=2168849&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDIxIDc6MTI6MzggUE0maGFzaF92YWx1ZT1RQnQ5U1V4Zld2SUM2U0V6c2szbW9nPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,Kidoodle tv
 https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,MANGAS
