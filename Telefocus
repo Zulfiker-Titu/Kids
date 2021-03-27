@@ -90,9 +90,9 @@ http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755698.ts?checkedby:hlscat.c
 #EXTINF:-1,Jeko
 http://nn1.joj.sk/hls/rik-540.m3u8
 #EXTINF:-1,Duronto TV
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/55.m3u8
-#EXTINF:-1,Nick Bangla
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/10.m3u8
+#EXTINF:-1,Nick Bangla
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/55.m3u8
 #EXTINF:-1,Rotana Kids
 https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
 #EXTINF:-1,tvo kids
