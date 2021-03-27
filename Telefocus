@@ -25,7 +25,9 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 http://51.52.156.22:8888/http/003
 #EXTINF:-1,Cartoon Network HD
 http://ajstreamz.xyz:8080/Constance/constance/151079
-#EXTINF:-1,CN Hindi
+#EXTINF:-1,Cartoon Network Hindi (Opt-1)
+http://otv.ftpbd.net/streams/123/index.m3u8
+#EXTINF:-1,Cartoon Network Hindi (Opt-2)
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/79.m3u8
 #EXTINF:-1,CN Vietnam
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
