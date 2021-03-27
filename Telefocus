@@ -5,26 +5,28 @@ http://210.210.155.35/dr9445/h/h144/01.m3u8
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist.m3u8
 #EXTINF:-1,Animax (Opt-3)
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
+#EXTINF:-1,Aniplus
+http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1,Boomerang (Opt-1)
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist.m3u8
 #EXTINF:-1,Boomerang (Opt-2)
 http://27.254.130.61/live01/ch18.m3u8?p=st
 #EXTINF:-1,Disvovery Kids
 https://itvorigin.multitvsolution.com/idvo/discoverykidshindi.m3u8
-#EXTINF:-1,Disney Channel
-https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
-#EXTINF:-1,Disney XD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.m3u8 #EXTINF:-1,Sony Yay http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.m3u8
+#EXTINF:-1,Disney Channel HD
+http://ajstreamz.xyz:8080/Constance/constance/151081
 #EXTINF:-1,Disney Junior
-http://182.176.93.225:8000/play/a01n
+http://ajstreamz.xyz:8080/Constance/constance/151082 
+#EXTINF:-1,Disney XD
+http://ajstreamz.xyz:8080/Constance/constance/151083
+#EXTINF:-1,Sony Yay Bangla
+https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-1,Cbeebies BBC
 http://51.52.156.22:8888/http/003
-#EXTINF:-1,Cartoon Network (India)
-https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://ajstreamz.xyz:8080/Constance/constance/151079
 #EXTINF:-1,CN Vietnam
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
-#EXTINF:-1,CN Arabic
-http://79.137.41.99/Cartoonnetwork/index.m3u8 
 #EXTINF:-1,CN
 http://51.68.141.106:8081/tv/cartoon-network/chunks.m3u8
 #EXTINF:-1,DA VINCI KIDS
