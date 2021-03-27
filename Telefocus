@@ -25,6 +25,8 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 http://51.52.156.22:8888/http/003
 #EXTINF:-1,Cartoon Network HD
 http://ajstreamz.xyz:8080/Constance/constance/151079
+#EXTINF:-1,CN Hindi
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/79.m3u8
 #EXTINF:-1,CN Vietnam
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 #EXTINF:-1,CN
@@ -41,6 +43,8 @@ http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 https://yupppreview.akamaized.net/preview/wowkidztam/2500.m3u8
 #EXTINF:-1,Minika Cocuk
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/253
+#EXTINF:-1,Nick Bangla
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/55.m3u8
 #EXTINF:-1,NICK Jr. (Opt-1)
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 #EXTINF:-1,NICK Jr. (Opt-2)
@@ -76,6 +80,7 @@ http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755698.ts?checkedby:hlscat.c
 #EXTINF:-1,Jeko
 http://nn1.joj.sk/hls/rik-540.m3u8
 #EXTINF:-1,Duronto TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.m3u8
+Nick Bangla
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/10.m3u8
 #EXTINF:-1,tvo kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
