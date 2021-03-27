@@ -97,5 +97,7 @@ http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/10.m3u8
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/55.m3u8
 #EXTINF:-1,Rotana Kids
 https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
+#EXTINF:-1,Sonic Hindi
+http://topiptv.net:5890/abcd/123456/68719
 #EXTINF:-1,tvo kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
