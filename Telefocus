@@ -43,8 +43,8 @@ http://51.68.141.106:8081/tv/cartoon-network/chunks.m3u8
 http://d-e-02.cdn.rdsnet.ro/DVR/davincilearningsdb.stream/playlit.m3u8
 #EXTINF:-1,MBC 3 HD
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
-#EXTINF:-1,MAS TV
-https://fra-haproxy.angelthump.com/hls/mastv46/index.m3u8?stream=mastv468
+#EXTINF:-1,Kidoodle tv
+https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,MANGAS
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/Mangas_live/04.m3u8
 #EXTINF:-1,Akaram Kidz
