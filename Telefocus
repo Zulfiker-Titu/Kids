@@ -2,17 +2,15 @@
 #EXTINF:-1,Animax (Opt-1)
 http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1,Animax (Opt-2)
-https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,Hungama Kids
-http://182.176.93.225:8000/play/a01l
-#EXTINF:-1,POGO
-http://182.176.93.225:8000/play/a01p
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist.m3u8
+#EXTINF:-1,Animax (Opt-3)
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
 #EXTINF:-1,Boomerang (Opt-1)
-https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist.m3u8
 #EXTINF:-1,Boomerang (Opt-2)
 http://27.254.130.61/live01/ch18.m3u8?p=st
 #EXTINF:-1,Disvovery Kids
-https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
+https://itvorigin.multitvsolution.com/idvo/discoverykidshindi.m3u8
 #EXTINF:-1,Disney Channel
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1,Disney XD
