@@ -31,6 +31,8 @@ http://otv.ftpbd.net/streams/123/index.m3u8
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/79.m3u8
 #EXTINF:-1,CN Vietnam
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+#EXTINF:-1,CN HD
+http://internetowa.tv/?c=hlsPlay&channel=cartoonnetwork&token=2bdae9ac2bd68cf8200f99d6672d0b5cca6d583abbb1da9646e66138cc2fad99dd1c081abfbab2fb3004cc8634231d9a5ade8d47cbe80f3f9269f0420ac8c4bc
 #EXTINF:-1,CN
 http://51.68.141.106:8081/tv/cartoon-network/chunks.m3u8
 #EXTINF:-1,DA VINCI KIDS
@@ -84,5 +86,7 @@ http://nn1.joj.sk/hls/rik-540.m3u8
 #EXTINF:-1,Duronto TV
 Nick Bangla
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/10.m3u8
+#EXTINF:-1,Rotana Kids
+https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
 #EXTINF:-1,tvo kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
